@@ -17,6 +17,9 @@
 
 ---
 
+> **Warning**
+> This project is currently in **Alpha testing**. It is functional and actively used in development, but you may encounter bugs, rough edges, or breaking changes between releases. Feedback, bug reports, and contributions are very welcome! Please [open an issue](https://github.com/BACON-AI-CLOUD/bacon-ai-claude-mastery/issues) if you run into problems.
+
 > **⚠️ ALPHA STATUS:** This training platform is currently in active development. Content is being refined based on real-world usage across BACON-AI's production projects. Some modules may be incomplete or evolving rapidly.
 
 ---
