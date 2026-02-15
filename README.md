@@ -374,8 +374,8 @@ mindmap
 - Ongoing support options
 - Team licenses
 
-**📧 Contact:** workshops@bacon-ai.com
-**🌐 Website:** https://bacon-ai.com/bacon-ai-claude-mastery
+**📧 Contact:** hello@bacon-ai.cloud
+**🌐 Website:** https://bacon-ai.cloud/bacon-ai-claude-mastery
 
 ---
 
@@ -458,7 +458,7 @@ The BACON-AI Framework and certain proprietary methodologies require separate li
 - **MCP Documentation:** https://modelcontextprotocol.io
 - **BACON-AI GitHub:** https://github.com/bacon-ai
 - **Community Discord:** https://discord.gg/bacon-ai
-- **Newsletter:** https://bacon-ai.com/newsletter
+- **Newsletter:** https://bacon-ai.cloud/newsletter
 
 ---
 
@@ -468,7 +468,7 @@ Ready to master Claude Code?
 
 1. **Browse the Modules** - Explore what you'll learn
 2. **Choose Your Track** - Select Bronze, Silver, Gold, or Enterprise
-3. **Contact Us** - Email workshops@bacon-ai.com
+3. **Contact Us** - Email hello@bacon-ai.cloud
 4. **Schedule Training** - Book your workshop dates
 5. **Start Learning** - Transform how you code with AI
 
@@ -480,6 +480,6 @@ Ready to master Claude Code?
 
 *Empowering developers to harness AI coding assistants effectively*
 
-[Website](https://bacon-ai.com) | [GitHub](https://github.com/bacon-ai) | [Discord](https://discord.gg/bacon-ai) | [Email](mailto:workshops@bacon-ai.com)
+[Website](https://bacon-ai.cloud) | [GitHub](https://github.com/bacon-ai) | [Discord](https://discord.gg/bacon-ai) | [Email](mailto:hello@bacon-ai.cloud)
 
 </div>
